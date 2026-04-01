@@ -1,0 +1,51 @@
+stock_id,ticker_symbol,company_name,sector,industry,market_cap,ipo_date,exchange,currency
+1,AAPL,Apple Inc.,Technology,Consumer Electronics,2800000000000,1980-12-12,NASDAQ,USD
+2,MSFT,Microsoft Corporation,Technology,Software,2500000000000,1986-03-13,NASDAQ,USD
+3,GOOGL,Alphabet Inc.,Technology,Internet Services,1700000000000,2004-08-19,NASDAQ,USD
+4,AMZN,Amazon.com Inc.,Consumer Cyclical,E-commerce,1500000000000,1997-05-15,NASDAQ,USD
+5,META,Meta Platforms Inc.,Technology,Social Media,900000000000,2012-05-18,NASDAQ,USD
+6,TSLA,Tesla Inc.,Consumer Cyclical,Auto Manufacturers,800000000000,2010-06-29,NASDAQ,USD
+7,NVDA,NVIDIA Corporation,Technology,Semiconductors,2000000000000,1999-01-22,NASDAQ,USD
+8,NFLX,Netflix Inc.,Communication Services,Entertainment,250000000000,2002-05-23,NASDAQ,USD
+9,JPM,JPMorgan Chase & Co.,Financial Services,Banking,450000000000,1980-03-05,NYSE,USD
+10,BAC,Bank of America Corp,Financial Services,Banking,300000000000,1980-03-05,NYSE,USD
+11,WFC,Wells Fargo & Company,Financial Services,Banking,180000000000,1980-03-05,NYSE,USD
+12,GS,Goldman Sachs Group,Financial Services,Investment Banking,120000000000,1999-05-04,NYSE,USD
+13,V,Visa Inc.,Financial Services,Credit Services,500000000000,2008-03-19,NYSE,USD
+14,MA,Mastercard Inc.,Financial Services,Credit Services,380000000000,2006-05-25,NYSE,USD
+15,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers,400000000000,1980-03-05,NYSE,USD
+16,PFE,Pfizer Inc.,Healthcare,Drug Manufacturers,160000000000,1980-03-05,NYSE,USD
+17,UNH,UnitedHealth Group,Healthcare,Healthcare Plans,480000000000,1984-10-17,NYSE,USD
+18,ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers,280000000000,2013-01-02,NYSE,USD
+19,WMT,Walmart Inc.,Consumer Defensive,Discount Stores,400000000000,1980-08-25,NYSE,USD
+20,PG,Procter & Gamble Co,Consumer Defensive,Household Products,360000000000,1980-03-05,NYSE,USD
+21,KO,Coca-Cola Company,Consumer Defensive,Beverages,260000000000,1980-03-05,NYSE,USD
+22,PEP,PepsiCo Inc.,Consumer Defensive,Beverages,240000000000,1980-03-05,NASDAQ,USD
+23,MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,200000000000,1980-03-05,NYSE,USD
+24,NKE,Nike Inc.,Consumer Cyclical,Footwear & Accessories,180000000000,1980-12-02,NYSE,USD
+25,SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants,110000000000,1992-06-26,NASDAQ,USD
+26,XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,420000000000,1980-03-05,NYSE,USD
+27,CVX,Chevron Corporation,Energy,Oil & Gas Integrated,280000000000,1980-03-05,NYSE,USD
+28,T,AT&T Inc.,Communication Services,Telecom Services,130000000000,1983-11-21,NYSE,USD
+29,VZ,Verizon Communications,Communication Services,Telecom Services,170000000000,2000-07-03,NYSE,USD
+30,BA,Boeing Company,Industrials,Aerospace & Defense,130000000000,1980-03-05,NYSE,USD
+31,CAT,Caterpillar Inc.,Industrials,Farm & Heavy Machinery,150000000000,1980-03-05,NYSE,USD
+32,GE,General Electric Company,Industrials,Conglomerates,120000000000,1980-03-05,NYSE,USD
+33,ORCL,Oracle Corporation,Technology,Software,280000000000,1986-03-12,NYSE,USD
+34,CSCO,Cisco Systems Inc.,Technology,Communication Equipment,210000000000,1990-02-16,NASDAQ,USD
+35,INTC,Intel Corporation,Technology,Semiconductors,180000000000,1980-03-17,NASDAQ,USD
+36,AMD,Advanced Micro Devices,Technology,Semiconductors,220000000000,1980-03-05,NASDAQ,USD
+37,CRM,Salesforce Inc.,Technology,Software,220000000000,2004-06-23,NYSE,USD
+38,ADBE,Adobe Inc.,Technology,Software,240000000000,1986-08-20,NASDAQ,USD
+39,IBM,International Business Machines,Technology,IT Services,140000000000,1980-03-05,NYSE,USD
+40,HD,Home Depot Inc.,Consumer Cyclical,Home Improvement,360000000000,1981-09-22,NYSE,USD
+41,TGT,Target Corporation,Consumer Cyclical,Discount Stores,70000000000,1980-03-05,NYSE,USD
+42,COST,Costco Wholesale Corp,Consumer Defensive,Discount Stores,320000000000,1985-12-05,NASDAQ,USD
+43,DIS,Walt Disney Company,Communication Services,Entertainment,180000000000,1980-03-05,NYSE,USD
+44,CMCSA,Comcast Corporation,Communication Services,Entertainment,160000000000,1980-03-05,NASDAQ,USD
+45,MRK,Merck & Co Inc.,Healthcare,Drug Manufacturers,270000000000,1980-03-05,NYSE,USD
+46,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers,560000000000,1980-03-05,NYSE,USD
+47,BRK.B,Berkshire Hathaway Inc.,Financial Services,Insurance,850000000000,1980-03-05,NYSE,USD
+48,AXP,American Express Company,Financial Services,Credit Services,150000000000,1980-03-05,NYSE,USD
+49,QCOM,Qualcomm Inc.,Technology,Semiconductors,180000000000,1991-12-13,NASDAQ,USD
+50,TXN,Texas Instruments Inc.,Technology,Semiconductors,170000000000,1980-03-05,NASDAQ,USD
